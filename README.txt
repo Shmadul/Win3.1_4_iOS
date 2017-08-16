@@ -5,4 +5,5 @@ Run Windows 3.1 on iOS, No Jailbreak Required !
 2.Open the app, and type install and press return
 3.Complete the Windows 3.1 Setup Process and tap reboot
 4.Double tap the home button and close the app and re open it
+6.Type deltree /y Win31 and press return
 5.Type win, and Windows 3.1 Will Boot !
